@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 A Magento Extension that will allow to add javascript and css for static blocks. 
